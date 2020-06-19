@@ -1,2 +1,3 @@
-# fastapi-stock-screener
-FastAPI for stock screener
+## Useful Command Lines
+- `pip install -r requirements.txt`
+- `uvicorn main:app --reload`
